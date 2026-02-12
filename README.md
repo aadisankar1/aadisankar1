@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node and Go**
 
-- 📝 I regularly write articles on [startcoding91byaadi.blogspot.com](startcoding91byaadi.blogspot.com)
+- 📝 I regularly write articles on [my blog website](https://startcoding91byaadi.blogspot.com)
 
 - 💬 Ask me about **python**
 
